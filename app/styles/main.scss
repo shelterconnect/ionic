@@ -1,0 +1,24 @@
+/* Your app's SASS, go crazy, make it your own */
+
+.auth-map {
+  .angular-google-map-container {
+    height: 200px;
+    width: 200px; 
+    position: absolute; 
+    top: 0; 
+    z-index: 515;
+  }
+}
+
+.text-center {
+  
+  text-align: center;
+
+}
+
+.ionic-logo {
+  display: block;
+  margin: 15px auto;
+  width: 96px;
+  height: 96px;
+  }
